@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29521.150
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "openiddictnoendpointrouting", "openiddictnoendpointrouting\openiddictnoendpointrouting.csproj", "{4C2F7DBC-88F1-4E25-A7EB-89CDE57CC065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C2F7DBC-88F1-4E25-A7EB-89CDE57CC065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2F7DBC-88F1-4E25-A7EB-89CDE57CC065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2F7DBC-88F1-4E25-A7EB-89CDE57CC065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2F7DBC-88F1-4E25-A7EB-89CDE57CC065}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37FCCD5A-D606-486E-B476-2A4AE42F6852}
+	EndGlobalSection
+EndGlobal
